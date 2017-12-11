@@ -19,7 +19,7 @@ Common Interfaces implementedd in this system for upper users:
 ## GraphBuild
 ![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/design/GraphBuild_flow_chart.png)
 ## N Degree Neighbours
-![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/design/flow chart of find n-layer neighbors algorithm.png)
+![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/design/flow_chart_of_find_n-layer_neighbors_algorithm.png)
 
 
 
