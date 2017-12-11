@@ -13,3 +13,14 @@ Common Interfaces implementedd in this system for upper users:
 
 
 
+
+# Visualization
+
+
+## Second Degree Neighbours
+![Two Degree Neighbours](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/节点邻居计算可视化结果.png)
+![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/节点邻居计算可视化结果.png)
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
+
+
+
