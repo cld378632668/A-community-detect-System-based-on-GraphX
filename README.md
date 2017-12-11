@@ -16,6 +16,15 @@ Common Interfaces implementedd in this system for upper users:
 
 # Visualization
 
+## custom attributes  要展示的属性标签客制化
+![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/带有人物姓名和关系的图构建可视化结果.png)
+
+## Community Detection
+![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/顶点分组可视化结果.png)
+
+## PageRank
+![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/顶点重要程度可视化结果.png)
+
 
 ## Second Degree Neighbours
 ![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/节点邻居计算可视化结果.png)
