@@ -1,0 +1,18 @@
+node {
+    fill-color: #a1d99b;
+    size: 20px;
+    text-size: 12;
+    text-alignment: at-right;
+    text-padding: 2;
+    text-background-color: #fff7bc;
+}
+edge {
+    /*shape: cubic-curve;*/
+    shape: line;
+    fill-color: #dd1c77;
+    z-index: 0;
+    text-background-mode: rounded-box;
+    text-background-color: #fff7bc;
+    text-alignment: above;
+    text-padding: 2;
+}
