@@ -1,5 +1,5 @@
 
-# About me
+# About Me
 
 图计算和图存储在国内兴起于2014年，笔者在2015有幸成为中科院的客座实习生开始基础图计算，从2015年12月开始分别完成了图计算的综述研究、GraphX的源码剖析，随后参与了图计算的相关项目，受益匪浅，乐趣无穷，不想离开，因毕业需要，2016年5月返回本科学校花了几周时间完成了这个简单的毕业设计，作为毕业之用。
 
@@ -16,7 +16,7 @@ Common Interfaces implementedd in this system for upper users:
 ![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/design/System_Architecture.png)
 
 
-# Implemention Details.
+# Implemention Details
 
 ## GraphBuild
 ![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/design/GraphBuild_flow_chart.png)
@@ -27,7 +27,7 @@ Common Interfaces implementedd in this system for upper users:
 
 # Visualization
 
-## custom attributes  要展示的属性标签客制化
+## Custom attributes  要展示的属性标签客制化
 ![Alt text](https://github.com/cld378632668/A-community-detect-System-based-on-GraphX/raw/master/visualization/带有人物姓名和关系的图构建可视化结果.png)
 
 
